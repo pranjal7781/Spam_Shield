@@ -6,7 +6,7 @@ Description: Project to detect spam mails
   (Note: Make sure you are in the working folder {.../SpamShiled})
 
 2️⃣  Create virtural space
-For Linux User:
+💻 For Linux User:
    mkdir env
    (run the command on the terminal or command prompt)
 
@@ -18,7 +18,7 @@ For Linux User:
    source env/bin/activate
    (run the command on the terminal or command prompt)
   (Note: To deactive the virtual space, run the command : deactivate)
-For Windows User:
+🖥 For Windows User:
     md env
     (run the command on the terminal or command prompt)
 
