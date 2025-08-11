@@ -1,11 +1,11 @@
 # 📧 SpamShield
-Description: 🎓Project to detect spam mails
+Description: Project to detect spam mails
 
-How to run this project
-1) Open terminal or command prompt.
+🚀 How to run this project 
+1️⃣ Open terminal or command prompt.
   (Note: Make sure you are in the working folder {.../SpamShiled})
 
-2) Create virtural space
+2️⃣  Create virtural space
 For Linux User:
    mkdir env
    (run the command on the terminal or command prompt)
