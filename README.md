@@ -1,5 +1,5 @@
-# SpamShield
-Description: College project to detect spam mails
+# 📧 SpamShield
+Description: 🎓Project to detect spam mails
 
 How to run this project
 1) Open terminal or command prompt.
