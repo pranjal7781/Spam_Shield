@@ -28,14 +28,14 @@ Description: Project to detect spam mails
     env\Scripts\activate
     (run the command on the terminal or command prompt)
   (Note: To deactive the virtual space, run the command : deactivate)
-
-3) Install necessary requirements.
+<br>
+3️⃣  Install necessary requirements.<br>
     pip install -r requirements.txt 
                 OR
 
     (run the command on the terminal or command prompt)
-
-4) Prepare the Model
+<br>
+4️⃣ Prepare the Model 🛠 <br>
 There are two ways to do this. (you have to choose either a path or b path)
 a) Run the command: python3 SpamShield_Model.py 
 				OR
@@ -45,7 +45,8 @@ b) Install jupyter: pip install jupyterlab
    Open the the model preparation file (SpamShield_Model.ipynb) now using the interface execute it.
 (After this you will get two files: vectorizer.pkl and model.pkl {Note: if files are already exist, delete them first})
 
-5)Finally, its time to RUN your program using streamlit
+<br>
+5️⃣ Finally, its time to RUN your program using streamlit 🎯  <br>
 a)Install streamlit:
     pip install streamlit
             OR
